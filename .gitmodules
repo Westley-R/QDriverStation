@@ -1,6 +1,6 @@
 [submodule "lib/QJoysticks"]
 	path = lib/QJoysticks
-	url = https://github.com/alex-spataru/QJoysticks
+	url = ../QJoysticks
 [submodule "lib/LibDS"]
 	path = lib/LibDS
-	url = https://github.com/Westley-R/LibDS
+	url = ../LibDS
