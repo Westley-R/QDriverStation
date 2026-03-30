@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/qml">
+        <file alias="Globals.js">qml/Globals.js</file>
+        <file alias="main.qml">qml/main.qml</file>
+        <file alias="Dialogs/SettingsWindow.qml">qml/Dialogs/SettingsWindow.qml</file>
+        <file alias="Dialogs/VirtualJoystickWindow.qml">qml/Dialogs/VirtualJoystickWindow.qml</file>
+        <file alias="MainWindow/About.qml">qml/MainWindow/About.qml</file>
+        <file alias="MainWindow/Charts.qml">qml/MainWindow/Charts.qml</file>
+        <file alias="MainWindow/Diagnostics.qml">qml/MainWindow/Diagnostics.qml</file>
+        <file alias="MainWindow/JoystickItem.qml">qml/MainWindow/JoystickItem.qml</file>
+        <file alias="MainWindow/Joysticks.qml">qml/MainWindow/Joysticks.qml</file>
+        <file alias="MainWindow/LeftTab.qml">qml/MainWindow/LeftTab.qml</file>
+        <file alias="MainWindow/MainWindow.qml">qml/MainWindow/MainWindow.qml</file>
+        <file alias="MainWindow/Messages.qml">qml/MainWindow/Messages.qml</file>
+        <file alias="MainWindow/Operator.qml">qml/MainWindow/Operator.qml</file>
+        <file alias="MainWindow/Preferences.qml">qml/MainWindow/Preferences.qml</file>
+        <file alias="MainWindow/RightTab.qml">qml/MainWindow/RightTab.qml</file>
+        <file alias="MainWindow/Status.qml">qml/MainWindow/Status.qml</file>
+        <file alias="MainWindow/VoltageGraph.qml">qml/MainWindow/VoltageGraph.qml</file>
+        <file alias="Widgets/Button.qml">qml/Widgets/Button.qml</file>
+        <file alias="Widgets/Checkbox.qml">qml/Widgets/Checkbox.qml</file>
+        <file alias="Widgets/Combobox.qml">qml/Widgets/Combobox.qml</file>
+        <file alias="Widgets/Icon.qml">qml/Widgets/Icon.qml</file>
+        <file alias="Widgets/Icons.qml">qml/Widgets/Icons.qml</file>
+        <file alias="Widgets/Label.qml">qml/Widgets/Label.qml</file>
+        <file alias="Widgets/LED.qml">qml/Widgets/LED.qml</file>
+        <file alias="Widgets/LineEdit.qml">qml/Widgets/LineEdit.qml</file>
+        <file alias="Widgets/ListViewer.qml">qml/Widgets/ListViewer.qml</file>
+        <file alias="Widgets/Panel.qml">qml/Widgets/Panel.qml</file>
+        <file alias="Widgets/Plot.qml">qml/Widgets/Plot.qml</file>
+        <file alias="Widgets/Progressbar.qml">qml/Widgets/Progressbar.qml</file>
+        <file alias="Widgets/Scrollbar.qml">qml/Widgets/Scrollbar.qml</file>
+        <file alias="Widgets/Spinbox.qml">qml/Widgets/Spinbox.qml</file>
+        <file alias="Widgets/TextEditor.qml">qml/Widgets/TextEditor.qml</file>
+        <file alias="MainWindow/BatteryChart.qml">qml/MainWindow/BatteryChart.qml</file>
+    </qresource>
+</RCC>

@@ -27,7 +27,7 @@
 #include <QScreen>
 #include <QSettings>
 #include <QClipboard>
-#include <QApplication>
+#include <QGuiApplication>
 
 //------------------------------------------------------------------------------
 // Windows hacks
@@ -61,7 +61,7 @@ static const QString PWR_CMD = "pmset -g batt";
 
 #if defined Q_OS_LINUX
 #   include <QFile>
-#   include <QRegExp>
+#   include <QRegularExpression>
 
 static const QString BTY_CMD = "bash -c \"upower -i "
                                "$(upower -e | grep 'BAT') | "
